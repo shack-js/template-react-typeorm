@@ -5,8 +5,6 @@ react + typescript + typeorm template for shack.js
 ## init
 
 ```
-npx @shack-js/cli init my-app -t react-typeorm
-cd my-app
 npm i
 ```
 
